@@ -1,0 +1,15 @@
+local L0_2
+L0_2 = {
+  LinearLayout,
+  {
+    Button,
+    textColor = "#D50000",
+    text = "惊不惊喜 意不意外 亮少修改联系QQ2328031994",
+    layout_height = "match_parent",
+    layout_width = "match_parent",
+    background = "#88888888"
+  }
+}
+L0_2.layout_width = "fill"
+L0_2.layout_height = "fill"
+return L0_2
